@@ -1,5 +1,5 @@
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=";
-const apiKey = "76ad6ef1080b2cf4ac35cf063a515dab";
+const apiKey = "PASTE YOUR API KEY HERE";
 const searchBox = document.querySelector(".search-box");
 const wind = document.querySelector(".wind >p");
 const humidity = document.querySelector(".humidity >p");
